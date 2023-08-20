@@ -1,3 +1,6 @@
+/*In this project I built a Magic Eight Ball using control flow in JavaScript.
+A user's able to input a question, then the program will output a random fortune.*/
+
 let userName = "Jane";
 
 userName ? console.log(`Hello, ${userName}!`) : console.log("Hello!");
